@@ -1,16 +1,45 @@
-# DEVELOPMENT-OF-AUTOMOTIVE-FRONT-HOOD-PANEL
-Development of Automotive Front Hood Panel
-This project involves the end-to-end design and development of an automotive front hood panel, starting from a Class-A surface. The aim was to create a structurally sound, manufacturable, and aesthetically appealing hood panel aligned with automotive industry standards.
+# Automotive Front Hood Panel Design
 
-**Key Highlights**:
-**CAD Modeling using CATIA V5 R30** – developed both Class-B and Class-C surfaces from the given Class-A surface ensuring manufacturability with proper draft angles, G1/G2 continuity, and tooling feasibility.
+This project focuses on the design and development of an *automotive front hood panel* using CATIA V5 R30. Starting from a provided Class-A surface, the design process incorporates key engineering considerations like safety, manufacturability, pedestrian protection, and OEM benchmarking.
 
-**Hinge & Latch Integration** – designed hood articulation mechanisms with proper load path management, considering packaging space and safety standards.
+## Overview
 
-**Structural Reinforcement** – modeled the inner panel with stiffness beads and emboss features to meet durability and pedestrian safety norms.
+- *CAD Tool*: CATIA V5 R30
+- *Design Inputs*: Class-A Surface
+- *Scope*:
+  - Surface modeling (Class B & C)
+  - Hood inner panel design with reinforcements
+  - Hinge and latch layout
+  - Hemming and manufacturing considerations
+  - Pedestrian safety and force dissipation zones
 
-**BIW (Body-in-White) Considerations** – ensured design compatibility with BIW mounting points, aligning with crashworthiness and rigidity requirements.
+## Design Workflow
 
-**Benchmarking –** referenced OEM layout practices and existing vehicle models to validate hood opening kinematics and part alignment.
+1. Interpret Class-A surface
+2. Create Class-B and Class-C surfaces
+3. Design hood inner panel with ribs and embosses
+4. Integrate hinge and latch layout
+5. Apply hemming features and hem reliefs
+6. Evaluate force flow and safety under impact
+7. Final CAD validation and documentation
 
-This project demonstrates proficiency in sheet metal design, surface modeling, automotive packaging, and product development methodology.
+## Key Considerations
+
+- Structural stiffness and durability
+- BIW compatibility
+- Pedestrian impact performance
+- Tooling feasibility and manufacturability
+
+## Preview
+
+![CAD Model](./A_3D-rendered_CAD_model_of_an_automotive_front_hoo.png)
+3D CAD Model of Front Hood Panel
+
+![Impact Zones](./A_2D_technical_illustration_depicts_the_response_o.png)
+Force dissipation and deformation zones under impact
+
+## Deliverables
+
+- Final report ([Download PDF](./Automotive%20Front%20Hood%20Panel.pdf))
+- Design flowchart
+- CAD and technical illustrations

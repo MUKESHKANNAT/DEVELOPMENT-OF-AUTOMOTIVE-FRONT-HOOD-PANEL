@@ -20,7 +20,7 @@ This project focuses on the design and development of an *automotive front hood 
 3. Design hood inner panel with ribs and embosses
 4. Integrate hinge and latch layout
 5. Apply hemming features and hem reliefs
-6. Evaluate force flow and safety under impact
+6. Evaluate feasibility using draft Analysis
 7. Final CAD validation and documentation
 
 ## Key Considerations

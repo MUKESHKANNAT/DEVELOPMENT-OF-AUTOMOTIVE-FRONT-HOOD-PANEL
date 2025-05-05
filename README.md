@@ -32,14 +32,4 @@ This project focuses on the design and development of an *automotive front hood 
 
 ## Preview
 
-![CAD Model](./A_3D-rendered_CAD_model_of_an_automotive_front_hoo.png)
-3D CAD Model of Front Hood Panel
-
-![Impact Zones](./A_2D_technical_illustration_depicts_the_response_o.png)
-Force dissipation and deformation zones under impact
-
-## Deliverables
-
 - Final report ([Download PDF](./Automotive%20Front%20Hood%20Panel.pdf))
-- Design flowchart
-- CAD and technical illustrations
